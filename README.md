@@ -24,11 +24,11 @@ Sorry if the project title was misleading. This project is empty, but if you wan
 
 ## Copyright
 
-The content in this project is copyrighted by Marker2K. Profile: [Marker2k24](https://github.com/Marker2K24). 
+All of the content in this project is copyrighted by Marker2K. Profile: [Marker2k24](https://github.com/Marker2K24). 
 
 ## License
 
-The content in this project is licensed under the `CC-BY-SA-4.0`. See: [LICENSE.txt](LICENSE.txt)
+All of the content in this project is licensed under the `CC-BY-SA-4.0`. See: [LICENSE.txt](LICENSE.txt)
 
 ## Attribution
 
