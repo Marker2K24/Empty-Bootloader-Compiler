@@ -28,7 +28,7 @@ Example Sheet:
 
 ## Reporting a Vulnerability
 
-If you believe that you have found vulnerablility in this project you can fill out a form [here](https://forms.office.com/r/TQXvWbdKx9).
+If you believe that you have found vulnerablility in this project you can report it here.
 
 <!-- Use this section to tell people how to report a vulnerability.
 
