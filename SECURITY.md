@@ -28,7 +28,7 @@ Example Sheet:
 
 ## Reporting a Vulnerability
 
-If you believe that you have found vulnerablility in this project you can report it here.
+If you believe that you have found vulnerablility in this project you can report it by opening a [Security Advisory](../../security/advisories/new).
 
 <!-- Use this section to tell people how to report a vulnerability.
 
