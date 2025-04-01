@@ -1,5 +1,8 @@
 # Security Policy
 
+- [Supported Versions](#supported-versions)
+- [Reporting a Vulnerability](#reporting-a-vulnerability)
+
 ## Supported Versions
 
 While we try to keep this project up to date, we cannot guarantee that it will be vulnerability free at all times.
@@ -12,6 +15,19 @@ currently being supported with security updates.-->
 | Version | Supported          | Details
 | ------- | :----------------: | ------
 | &nbsp;
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
 <!--| v1.6.3-5<br>Latest Release | :heavy_minus_sign: | Security: This version is safe to use and it is the latest release.<br>Update:-->
 
 <!--
@@ -28,7 +44,12 @@ Example Sheet:
 
 ## Reporting a Vulnerability
 
-If you believe that you have found vulnerablility in this project you can report it by opening a [Security Advisory](../../security/advisories/new).
+If you believe that you have found vulnerablility in this project you can report it by opening a [security advisory](../../security/advisories/new).
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <!-- Use this section to tell people how to report a vulnerability.
 
